@@ -89,7 +89,7 @@
 📫 **How to Reach Me:** [LinkedIn](https://www.linkedin.com/in/muhammad-nauman-072592375/)
 
 ---
-
+<img src="https://komarev.com/ghpvc/?username=chnaumangujjar0&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
 ## 📫 Let's Connect!
 
