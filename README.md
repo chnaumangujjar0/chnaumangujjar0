@@ -15,11 +15,10 @@
 
 ## 🚀 About Me
 
-- 🎓 **Pre-Engineering Graduate** with **77% marks** in FSc
 - 🌍 Based in **Faisalabad, Pakistan**
 - 💡 Passionate about building **innovative web solutions**
 - 📚 Currently mastering **React.js** and **MERN Stack Development**
-- 🏆 **IELTS Band 6.0** | Strong foundation in programming fundamentals
+- 🏆 Strong foundation in programming fundamentals
 - ⚡ Fun fact: I love turning complex problems into simple, elegant code!
 
 ---
