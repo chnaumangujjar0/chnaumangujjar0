@@ -7,7 +7,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=MERN+Stack+Enthusiast;Problem+Solver;Always+Learning+New+Things" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-nauman-072592375/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chnaumangujjar0)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
 
 </div>
@@ -87,7 +87,7 @@
 🌱 **Learning:** Advanced React Hooks & State Management  
 👯 **Looking to Collaborate:** Open source projects related to web development  
 💬 **Ask Me About:** JavaScript, React, Web Development, C++  
-📫 **How to Reach Me:** [LinkedIn](https://www.linkedin.com/in/muhammad-nauman-072592375/)
+📫 **How to Reach Me:** [LinkedIn](https://www.linkedin.com/in/chnaumangujjar0)
 
 ---
 
@@ -98,7 +98,7 @@
 
 I'm always excited to collaborate on interesting projects or discuss web development!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-nauman-072592375/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chnaumangujjar0)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chnaumangujjar0)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](chnaumangujjar0@gmail.com)
 
