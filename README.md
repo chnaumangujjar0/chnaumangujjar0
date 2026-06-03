@@ -52,7 +52,7 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=chnaumangujjar0&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=chnaumangujjar0&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
